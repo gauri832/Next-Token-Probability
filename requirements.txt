@@ -1,0 +1,6 @@
+gradio>=4.44
+torch
+transformers>=4.40
+matplotlib
+pillow
+huggingface_hub
